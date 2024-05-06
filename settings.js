@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94702387073",
   SUDO_NUMBERS : "94758350948,94702387073",
-  OWNER_NAME: "『 *DAMINDU RUCHITH 』",
-  BOT_NAME : "*DAMINDU RUCHITH ＺＵＳＹＣＯ BOT*",
+  OWNER_NAME: "『 *DAMINDU RUCHITH* 』",
+  BOT_NAME : "*DAMINDU RUCHITH ＺＵＳＹＣＯ Whatsapp BOT*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/9fa18e2934f781c2f21d5.jpg',
