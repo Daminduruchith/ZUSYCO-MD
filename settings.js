@@ -34,7 +34,7 @@ module.exports = {
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "public",
-  WORK_MODE_MESSAGE_SEND : false,
+  WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ *DAMINDU RUCHITH* ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ DAMINDU RUCHITH ]',
   BAD_WORDS : 'fuck,pussy',
